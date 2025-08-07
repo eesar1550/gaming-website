@@ -2,9 +2,6 @@
 
 A fully responsive and visually captivating gaming-themed website that introduces a futuristic metagame experience called **Zentry**. This site features animated sections, video backgrounds, and immersive UI elements built with HTML, CSS, and JavaScript.
 
-## 🌐 Live Demo
-
-[🔗 View Live Website](https://eesar1550.github.io/gaming-website)
 
 ---
 
